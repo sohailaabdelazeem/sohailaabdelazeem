@@ -2,8 +2,8 @@
 
 ###
 
-<div align="left">
-  <a href="sohailaabdelazeem863@gmail.com" target="_blank">
+<div align="center">
+  <a href="mailto:sohailaabdelazeem863@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sohaila-abd-elazeem/" target="_blank">
@@ -64,5 +64,6 @@
 
 <br clear="both">
 
- 
+<img src="https://raw.githubusercontent.com/sohailaabdelazeem/sohailaabdelazeem/output/snake.svg" alt="Snake animation" />
+
 ###
